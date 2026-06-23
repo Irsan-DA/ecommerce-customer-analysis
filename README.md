@@ -1,12 +1,12 @@
 # E-Commerce Customer Segmentation & Churn Risk Analysis
 
 ## Background
-In e-commerce, retaining existing customers is significantly more cost-effective than acquiring new ones. Research by Bain & Company indicates that acquiring a new customer can cost 5–7x more than retaining an existing one. Despite this, many businesses lack a systematic way to identify which customers are at risk of churning — and which segments deserve more focused retention efforts.
+In e-commerce, retaining existing customers is significantly more cost-effective than acquiring new ones. Research by Bain & Company indicates that acquiring a new customer can cost 5–7x more than retaining an existing one. Despite this, many businesses lack a systematic way to identify which customers are at risk of churning and which segments deserve more focused retention efforts.
 
 ## Problem Statement
 This project addresses two interconnected business questions:
-1. **Who are our customers?** — Segment customers based on purchasing behavior to understand their value and engagement level.
-2. **Who is at risk of leaving?** — Identify early churn signals to enable proactive retention strategies before customers disengage.
+1. **Who are our customers?** Segment customers based on purchasing behavior to understand their value and engagement level.
+2. **Who is at risk of leaving?** Identify early churn signals to enable proactive retention strategies before customers disengage.
 
 ## Objectives
 - Perform Exploratory Data Analysis (EDA) to understand data quality and distribution
