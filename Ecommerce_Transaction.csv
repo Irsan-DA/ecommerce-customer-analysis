@@ -1,0 +1,501 @@
+user_id,age,gender,city,membership,category,total_revenue,num_orders,days_since_last_purchase,rating
+1001,35,Female,Bandung,Regular,Food & Bev,90000,1,0,5
+1002,30,Male,Surabaya,Regular,Food & Bev,207000,1,17,
+1003,37,Female,Jakarta,Silver,Fashion,158000,2,10,4
+1004,44,Male,Bali,Regular,Beauty,146000,5,79,2
+1005,30,Male,Bandung,Gold,Fashion,65000,1,3,
+1006,30,Female,Jakarta,Regular,Electronics,276000,1,31,
+1007,44,Male,Jakarta,Gold,Food & Bev,96000,4,1,4
+1008,38,Female,Jakarta,Silver,Fashion,580000,3,17,3
+1009,28,Female,Jakarta,Regular,Beauty,151000,4,,1
+1010,36,Female,Jakarta,Gold,Food & Bev,20000,2,10,2
+1011,28,Male,Jakarta,Regular,Beauty,169000,4,18,4
+1012,28,Male,Jakarta,Silver,Fashion,59000,2,5,5
+1013,33,Female,Jakarta,Regular,Fashion,174000,6,10,3
+1014,18,Female,Medan,Silver,Fashion,11000,3,29,5
+1015,18,Female,Jakarta,Silver,Electronics,29000,3,,5
+1016,27,Male,Surabaya,Silver,Food & Bev,290000,5,69,4
+1017,23,Female,Surabaya,Silver,Beauty,39000,4,29,5
+1018,34,Female,Bali,Regular,Food & Bev,272000,1,17,
+1019,24,Female,Jakarta,Regular,Home & Living,49000,4,1,3
+1020,20,Male,Jakarta,Regular,Food & Bev,154000,3,,4
+1021,43,Female,Bali,Regular,Electronics,178000,5,43,1
+1022,30,Female,Medan,Silver,Fashion,108000,4,9,5
+1023,32,Female,Medan,Regular,Food & Bev,55000,4,49,5
+1024,20,Male,Jakarta,Gold,Fashion,36000,6,8,5
+1025,27,Female,Jakarta,Silver,Fashion,5000,4,52,2
+1026,32,Female,Bandung,Silver,Electronics,54000,1,2,4
+1027,,Male,Bali,Regular,Beauty,159000,1,60,2
+1028,35,Female,Surabaya,Silver,Fashion,418000,1,20,1
+1029,27,Female,Surabaya,Gold,Beauty,307000,2,10,
+1030,29,Male,Jakarta,Regular,Beauty,218000,3,,5
+1031,27,Male,Bandung,Silver,Electronics,233000,3,16,5
+1032,46,Female,Jakarta,Silver,Fashion,164000,3,180,5
+1033,31,Male,Jakarta,Regular,Fashion,45000,3,7,2
+1034,23,Female,Surabaya,Regular,Food & Bev,357000,4,3,3
+1035,38,Male,Surabaya,Regular,Food & Bev,167000,3,26,4
+1036,22,Female,Jakarta,Regular,Beauty,123000,6,20,
+1037,33,Male,Jakarta,Regular,Food & Bev,18000,2,22,5
+1038,18,Female,Bandung,Regular,Fashion,89000,3,32,4
+1039,21,Female,Jakarta,Regular,Fashion,93000,3,9,4
+1040,,Female,Surabaya,Regular,Food & Bev,300000,2,72,1
+1041,37,Female,Jakarta,Gold,Fashion,119000,1,17,4
+1042,33,Male,Surabaya,Regular,Electronics,72000,2,,4
+1043,31,Female,Surabaya,Gold,Electronics,565000,8,40,2
+1044,,Male,Jakarta,Regular,Fashion,18000,4,30,4
+1045,20,Male,Jakarta,Regular,Fashion,82000,3,11,5
+1046,26,Male,Jakarta,Regular,Electronics,6000,4,29,4
+1047,28,Female,Jakarta,Regular,Fashion,202000,3,7,2
+1048,40,Female,Bali,Regular,Fashion,375000,5,17,3
+1049,34,Female,Jakarta,Silver,Food & Bev,49000,2,68,4
+1050,18,Male,Medan,Regular,Beauty,293000,3,4,4
+1051,34,Male,Jakarta,Silver,Fashion,52000,5,14,4
+1052,28,Female,Bandung,Silver,Beauty,362000,3,51,4
+1053,26,Male,Bandung,Regular,Electronics,210000,3,104,4
+1054,36,Female,Surabaya,Regular,Electronics,245000,2,18,5
+1055,40,Male,Surabaya,Silver,Beauty,3000,2,21,4
+1056,39,Female,Surabaya,Regular,Food & Bev,494000,2,25,5
+1057,25,Female,Jakarta,Regular,Beauty,195000,7,80,4
+1058,29,Male,Bali,Gold,Fashion,55000,3,58,2
+1059,34,Male,Medan,Regular,Fashion,265000,1,5,4
+1060,39,Female,Bali,Silver,Beauty,50000,7,17,4
+1061,28,Female,Jakarta,Gold,Electronics,309000,8,18,5
+1062,30,Male,Bandung,Regular,Fashion,18000,6,46,5
+1063,23,male,Bali,Regular,Food & Bev,182000,3,27,5
+1064,22,Male,Jakarta,Regular,Beauty,117000,4,31,5
+1065,38,Male,Jakarta,Regular,Beauty,15000,1,180,4
+1066,42,Female,Bandung,Regular,Electronics,42000,2,2,4
+1067,,Male,Surabaya,Silver,Beauty,2000,2,7,4
+1068,40,Female,Medan,Regular,Fashion,95000,4,15,5
+1069,34,Male,Jakarta,Regular,Fashion,54000,5,12,5
+1070,26,Male,Bandung,Gold,Food & Bev,137000,1,0,2
+1071,34,Female,Jakarta,Silver,Fashion,53000,1,,5
+1072,44,Male,Jakarta,Silver,Electronics,53000,4,34,3
+1073,31,Female,Jakarta,Regular,Food & Bev,204000,1,63,4
+1074,,Male,Medan,Silver,Electronics,7000,5,21,3
+1075,18,Male,Bandung,Regular,Fashion,350000,2,23,5
+1076,38,Male,Surabaya,Regular,Fashion,287000,1,8,5
+1077,32,Female,Jakarta,Regular,Electronics,7006000,4,43,4
+1078,29,Male,Medan,Silver,Electronics,135000,2,41,2
+1079,32,Female,Jakarta,Regular,Beauty,334000,3,26,4
+1080,18,Female,Medan,Regular,Beauty,31000,2,7,5
+1081,30,Female,Surabaya,Regular,Electronics,12000,4,3,4
+1082,34,Male,Jakarta,Regular,Beauty,41000,4,1,3
+1083,43,Female,Surabaya,Silver,Fashion,237000,2,26,3
+1084,27,Female,Jakarta,Silver,Fashion,5000,7,52,4
+1085,25,Female,Bandung,Silver,Beauty,131000,4,58,3
+1086,27,Female,Surabaya,Regular,Electronics,808000,4,18,5
+1087,39,Female,Jakarta,Regular,Home & Living,290000,5,46,
+1088,34,Female,Medan,Regular,Electronics,111000,7,88,5
+1089,27,Male,Jakarta,Regular,Beauty,10000,2,9,3
+1090,36,Male,Surabaya,Regular,Electronics,267000,7,15,4
+1091,32,Female,Bali,Silver,Electronics,137000,4,80,
+1092,39,FEMALE,Bandung,Regular,Electronics,18000,9,,5
+1093,26,Female,Jakarta,Regular,Food & Bev,15000,3,73,5
+1094,29,Female,Bali,Regular,Electronics,361000,4,118,5
+1095,28,Male,Bandung,Regular,Home & Living,166000,1,32,4
+1096,20,Male,Jakarta,Regular,Fashion,265000,1,50,4
+1097,34,Female,Jakarta,Gold,Fashion,317000,1,41,5
+1098,34,Male,Bandung,Silver,Electronics,127000,3,36,
+1099,,Male,Bandung,Gold,Food & Bev,109000,1,10,3
+1100,30,Female,Surabaya,Regular,Beauty,84000,4,1,5
+1101,,Male,Medan,Regular,Electronics,57000,3,12,4
+1102,28,Female,Bandung,Regular,Food & Bev,86000,4,32,3
+1103,29,Male,Jakarta,Regular,Electronics,223000,4,3,4
+1104,25,Female,Jakarta,Silver,Food & Bev,138000,7,0,3
+1105,30,MALE,Jakarta,Regular,Beauty,335000,3,4,4
+1106,35,Female,Bandung,Regular,Fashion,88000,2,37,3
+1107,47,Male,Jakarta,Regular,Electronics,140000,4,108,
+1108,33,Male,Surabaya,Regular,Home & Living,150000,1,122,2
+1109,34,Male,Bandung,Silver,Beauty,134000,3,20,4
+1110,31,Female,Medan,Regular,Food & Bev,182000,1,61,5
+1111,18,Female,Jakarta,Regular,Electronics,41000,2,40,4
+1112,,Male,Medan,Regular,Fashion,108000,8,20,1
+1113,32,Female,Jakarta,Regular,Electronics,17000,2,25,2
+1114,,Female,Medan,Silver,Beauty,73000,1,4,5
+1115,30,Female,Jakarta,Silver,Food & Bev,100000,3,83,4
+1116,34,Male,Jakarta,Gold,Fashion,158000,6,13,4
+1117,31,female,Bandung,Silver,Fashion,451000,2,17,1
+1118,22,Male,Jakarta,Regular,Fashion,138000,5,33,5
+1119,41,Male,Jakarta,Silver,Fashion,204000,1,12,4
+1120,38,Female,Bandung,Regular,Fashion,106000,4,8,3
+1121,38,Male,Bandung,Regular,Electronics,151000,3,29,
+1122,24,Female,Bandung,Silver,Fashion,11000,1,0,4
+1123,43,Female,Bandung,Regular,Fashion,7512000,2,38,
+1124,20,Female,Surabaya,Gold,Electronics,67000,3,21,5
+1125,36,Female,Jakarta,Regular,Fashion,96000,1,27,4
+1126,49,female,Jakarta,Silver,Fashion,7000,1,29,5
+1127,24,Male,Jakarta,Silver,Electronics,23000,2,22,2
+1128,27,Female,Bali,Silver,Fashion,49000,3,26,4
+1129,32,Male,Surabaya,Silver,Electronics,534000,4,34,
+1130,27,Male,Surabaya,Silver,Fashion,60000,2,41,3
+1131,19,Male,Surabaya,Regular,Beauty,99000,4,38,5
+1132,32,Male,Bali,Regular,Home & Living,33000,3,61,3
+1133,23,Male,Jakarta,Regular,Food & Bev,142000,4,6,4
+1134,35,Male,Surabaya,Silver,Electronics,49000,3,15,4
+1135,24,Female,Surabaya,Regular,Beauty,35000,4,88,5
+1136,,Female,Bandung,Silver,Food & Bev,109000,1,15,5
+1137,25,Female,Jakarta,Regular,Fashion,1000,4,4,2
+1138,29,Male,Medan,Regular,Electronics,1000,5,22,5
+1139,38,Male,Bali,Silver,Beauty,37000,2,3,4
+1140,22,Male,Surabaya,Regular,Electronics,6000,7,,4
+1141,33,Female,Bandung,Regular,Fashion,17000,6,180,5
+1142,42,Female,Bali,Regular,Food & Bev,62000,2,23,5
+1143,19,Male,Bandung,Gold,Beauty,243000,6,10,2
+1144,33,Female,Jakarta,Silver,Fashion,127000,5,157,5
+1145,34,Male,Surabaya,Regular,Electronics,108000,4,101,2
+1146,38,Female,Bandung,Regular,Fashion,52000,3,17,1
+1147,22,Female,Surabaya,Regular,Food & Bev,403000,3,9,4
+1148,21,Female,Bandung,Silver,Fashion,76000,2,54,5
+1149,36,Female,Bali,Silver,Electronics,14000,2,37,3
+1150,34,Female,Bali,Regular,Beauty,144000,7,34,5
+1151,34,Male,Surabaya,Regular,Electronics,18000,7,67,3
+1152,34,Female,Jakarta,Regular,Food & Bev,64000,4,35,5
+1153,26,Male,Bali,Silver,Electronics,106000,3,10,4
+1154,33,Female,Medan,Silver,Fashion,311000,3,35,5
+1155,34,Female,Jakarta,Regular,Food & Bev,102000,6,10,3
+1156,26,Female,Bali,Regular,Fashion,182000,5,42,5
+1157,46,Female,Medan,Regular,Electronics,740000,2,29,5
+1158,35,Female,Surabaya,Gold,Fashion,21000,3,2,5
+1159,22,Female,Surabaya,Regular,Food & Bev,48000,6,21,4
+1160,37,Female,Jakarta,Silver,Home & Living,75000,1,12,
+1161,24,Male,Jakarta,Silver,Home & Living,82000,2,11,1
+1162,38,Male,Jakarta,Regular,Electronics,79000,1,27,5
+1163,41,Male,Medan,Regular,Fashion,357000,3,11,5
+1164,25,Male,Jakarta,Regular,Electronics,188000,4,45,2
+1165,39,Female,Jakarta,Silver,Beauty,140000,5,2,4
+1166,35,Male,Jakarta,Silver,Fashion,56000,3,32,3
+1167,38,Female,Surabaya,Silver,Home & Living,260000,2,49,4
+1168,47,Male,Bali,Regular,Electronics,465000,5,33,5
+1169,30,Male,Jakarta,Regular,Home & Living,258000,1,20,4
+1170,25,Female,Jakarta,Gold,Beauty,0,3,90,4
+1171,24,Female,Bandung,Silver,Beauty,152000,2,10,3
+1172,25,Female,Surabaya,Regular,Electronics,5284000,2,0,4
+1173,31,Female,Jakarta,Gold,Fashion,45000,1,16,3
+1174,34,Female,Surabaya,Silver,Electronics,9000,1,1,5
+1175,34,Male,Jakarta,Regular,Electronics,139000,6,92,1
+1176,38,Female,Jakarta,Silver,Fashion,174000,3,,5
+1177,32,Female,Surabaya,Silver,Electronics,18000,1,46,4
+1178,,Female,Surabaya,Silver,Electronics,73000,6,44,4
+1179,29,Male,Bali,Regular,Food & Bev,91000,3,7,5
+1180,53,Female,Jakarta,Regular,Food & Bev,69000,4,29,
+1181,37,Male,Surabaya,Gold,Fashion,19000,1,1,4
+1182,25,Male,Bandung,Regular,Home & Living,81000,1,19,2
+1183,,Male,Jakarta,Regular,Fashion,209000,3,0,4
+1184,35,Female,Bandung,Regular,Electronics,11000,4,,3
+1185,30,Female,Jakarta,Regular,Electronics,13000,2,111,
+1186,37,Female,Bali,Silver,Beauty,66000,1,7,4
+1187,35,Female,Jakarta,Gold,Fashion,426000,2,6,2
+1188,31,Male,Surabaya,Regular,Electronics,166000,7,42,3
+1189,,Male,Jakarta,Regular,Food & Bev,170000,3,8,2
+1190,19,Male,Bali,Regular,Fashion,67000,1,67,2
+1191,28,Female,Surabaya,Silver,Food & Bev,135000,2,25,3
+1192,38,Male,Surabaya,Silver,Home & Living,2000,1,12,5
+1193,33,Female,Jakarta,Regular,Home & Living,152000,4,53,1
+1194,22,FEMALE,Bandung,Silver,Fashion,367000,3,20,5
+1195,33,Male,Jakarta,Silver,Fashion,142000,3,72,3
+1196,35,Female,Medan,Silver,Electronics,310000,3,78,5
+1197,24,Female,Jakarta,Gold,Electronics,193000,3,5,
+1198,33,Female,Jakarta,Regular,Fashion,19000,4,0,5
+1199,32,Female,Jakarta,Silver,Fashion,349000,1,123,4
+1200,22,Male,Surabaya,Regular,Home & Living,10000,2,70,1
+1201,34,Male,Surabaya,Silver,Home & Living,115000,3,1,5
+1202,36,Female,Jakarta,Silver,Fashion,23000,5,53,
+1203,40,Female,Bandung,Silver,Electronics,2000,3,18,3
+1204,40,Male,Surabaya,Silver,Electronics,82000,5,8,5
+1205,20,Female,Surabaya,Regular,Fashion,52000,5,63,5
+1206,24,Female,Surabaya,Regular,Food & Bev,100000,3,6,4
+1207,36,Female,Surabaya,Gold,Food & Bev,129000,2,88,4
+1208,36,Male,Surabaya,Gold,Beauty,7000,2,6,5
+1209,36,Female,Jakarta,Regular,Food & Bev,20000,2,28,5
+1210,62,Female,Jakarta,Regular,Electronics,123000,3,7,5
+1211,36,Male,Medan,Regular,Food & Bev,63000,1,23,5
+1212,41,Male,Bali,Silver,Fashion,196000,3,34,3
+1213,39,Female,Jakarta,Silver,Food & Bev,158000,1,6,5
+1214,37,Male,Jakarta,Regular,Electronics,280000,1,22,2
+1215,29,Female,Bandung,Regular,Fashion,177000,5,18,
+1216,38,Female,Surabaya,Silver,Fashion,84000,2,2,4
+1217,,Male,Jakarta,Silver,Fashion,168000,3,51,4
+1218,30,Female,Jakarta,Regular,Home & Living,48000,3,12,1
+1219,28,Male,Bandung,Regular,Fashion,6251000,6,25,5
+1220,32,Female,Bandung,Regular,Fashion,233000,4,21,4
+1221,50,Male,Jakarta,Regular,Electronics,89000,5,21,4
+1222,18,Female,Jakarta,Regular,Food & Bev,240000,3,3,5
+1223,37,Male,Jakarta,Silver,Fashion,259000,2,16,4
+1224,19,Male,Bandung,Silver,Home & Living,292000,3,18,1
+1225,28,Female,Jakarta,Silver,Beauty,373000,5,39,3
+1226,40,Male,Jakarta,Silver,Food & Bev,85000,1,54,5
+1227,32,Female,Bandung,Regular,Food & Bev,58000,2,23,2
+1228,23,Male,Jakarta,Regular,Fashion,131000,4,,4
+1229,26,Female,Bandung,Regular,Electronics,70000,2,8,
+1230,37,Male,Jakarta,Regular,Beauty,138000,3,5,4
+1231,26,Female,Jakarta,Silver,Fashion,183000,5,3,1
+1232,33,Female,Jakarta,Gold,Fashion,175000,3,13,4
+1233,32,Male,Bandung,Regular,Food & Bev,70000,1,7,4
+1234,26,Male,Medan,Regular,Fashion,27000,3,7,5
+1235,49,Male,Medan,Silver,Home & Living,84000,1,1,3
+1236,37,Female,Jakarta,Regular,Fashion,23000,2,0,4
+1237,18,Male,Bandung,Regular,Beauty,331000,2,3,4
+1238,33,Female,Jakarta,Silver,Electronics,64000,1,,
+1239,26,Male,Jakarta,Silver,Beauty,25000,1,16,5
+1240,38,Male,Medan,Regular,Electronics,4000,2,21,3
+1241,25,Female,Jakarta,Regular,Electronics,156000,7,4,3
+1242,31,Female,Jakarta,Silver,Beauty,152000,3,16,5
+1243,36,Male,Jakarta,Regular,Electronics,62000,3,12,
+1244,,Male,Jakarta,Regular,Electronics,11000,3,6,4
+1245,22,Male,Jakarta,Silver,Electronics,79000,4,,3
+1246,29,Female,Surabaya,Regular,Food & Bev,8403000,1,18,3
+1247,28,FEMALE,Surabaya,Silver,Electronics,170000,4,34,1
+1248,26,Female,Medan,Regular,Home & Living,140000,2,7,2
+1249,46,Female,Medan,Gold,Fashion,68000,2,4,4
+1250,35,Female,Jakarta,Regular,Electronics,37000,1,65,5
+1251,,Female,Jakarta,Regular,Beauty,664000,1,9,4
+1252,39,Female,Jakarta,Regular,Food & Bev,91000,2,7,4
+1253,48,Male,Surabaya,Regular,Beauty,175000,2,58,2
+1254,,Male,Jakarta,Silver,Home & Living,23000,5,50,4
+1255,,Male,Bandung,Gold,Electronics,100000,4,17,1
+1256,28,Male,Surabaya,Regular,Fashion,4000,2,20,5
+1257,42,Female,Surabaya,Regular,Fashion,106000,2,7,5
+1258,26,Female,Surabaya,Silver,Food & Bev,499000,3,2,5
+1259,35,Male,Jakarta,Silver,Beauty,73000,5,25,5
+1260,38,Male,Bali,Regular,Fashion,6000,1,3,4
+1261,24,Female,Bandung,Regular,Fashion,5000,2,17,4
+1262,31,Female,Jakarta,Regular,Fashion,74000,3,84,3
+1263,18,Male,Medan,Silver,Beauty,26000,1,91,
+1264,23,Female,Surabaya,Regular,Electronics,4000,2,8,5
+1265,29,Male,Medan,Silver,Electronics,212000,5,29,2
+1266,22,Male,Bandung,Regular,Electronics,92000,2,19,5
+1267,45,Female,Surabaya,Silver,Beauty,51000,3,62,
+1268,20,Female,Jakarta,Regular,Food & Bev,346000,2,9,5
+1269,28,Male,Jakarta,Regular,Food & Bev,19000,1,0,5
+1270,33,Female,Surabaya,Regular,Fashion,468000,7,5,5
+1271,43,Female,Bandung,Silver,Electronics,57000,5,12,5
+1272,20,Female,Jakarta,Regular,Food & Bev,329000,1,11,4
+1273,41,Female,Jakarta,Regular,Home & Living,139000,3,47,5
+1274,32,Female,Medan,Regular,Fashion,263000,8,34,5
+1275,24,Female,Bali,Regular,Fashion,620000,4,10,5
+1276,35,Female,Surabaya,Silver,Fashion,51000,3,18,4
+1277,33,FEMALE,Jakarta,Silver,Electronics,487000,2,3,4
+1278,27,Male,Jakarta,Silver,Beauty,74000,4,68,5
+1279,,Male,Jakarta,Regular,Fashion,73000,5,82,4
+1280,28,Female,Bali,Silver,Electronics,62000,3,117,5
+1281,32,Male,Jakarta,Regular,Electronics,117000,1,60,4
+1282,37,Female,Surabaya,Regular,Fashion,25000,2,5,
+1283,44,Female,Jakarta,Regular,Electronics,121000,4,1,4
+1284,22,Male,Surabaya,Regular,Fashion,117000,5,25,4
+1285,49,Female,Bandung,Silver,Electronics,215000,2,73,3
+1286,18,Male,Medan,Silver,Food & Bev,269000,3,5,2
+1287,30,Female,Jakarta,Silver,Electronics,87000,1,0,4
+1288,36,Male,Jakarta,Regular,Fashion,54000,4,49,2
+1289,34,Female,Jakarta,Regular,Home & Living,45000,5,2,4
+1290,27,Female,Bali,Regular,Food & Bev,32000,2,16,5
+1291,30,Female,Medan,Regular,Beauty,9000,4,34,5
+1292,28,Female,Surabaya,Regular,Fashion,63000,5,8,
+1293,27,Female,Bandung,Regular,Fashion,47000,2,2,5
+1294,38,female,Bandung,Regular,Fashion,509000,2,44,5
+1295,34,Female,Jakarta,Regular,Fashion,122000,6,29,4
+1296,26,Female,Bali,Silver,Electronics,64000,1,133,5
+1297,39,Male,Surabaya,Gold,Home & Living,130000,3,12,5
+1298,34,Female,Jakarta,Gold,Electronics,8266000,3,1,4
+1299,38,Female,Surabaya,Silver,Fashion,88000,4,39,1
+1300,,Female,Jakarta,Regular,Food & Bev,148000,10,22,
+1301,25,Male,Jakarta,Silver,Fashion,101000,5,7,1
+1302,27,Female,Bandung,Silver,Food & Bev,77000,4,45,5
+1303,37,Male,Jakarta,Regular,Food & Bev,764000,3,6,3
+1304,36,Female,Bandung,Regular,Beauty,318000,1,9,4
+1305,31,Male,Jakarta,Silver,Home & Living,146000,2,2,4
+1306,32,Female,Jakarta,Regular,Fashion,126000,4,15,
+1307,42,Female,Jakarta,Regular,Electronics,145000,4,16,4
+1308,,Male,Jakarta,Regular,Home & Living,34000,2,21,4
+1309,36,Female,Bandung,Regular,Beauty,75000,1,37,
+1310,30,Male,Jakarta,Regular,Electronics,6000,2,70,5
+1311,30,Female,Surabaya,Regular,Home & Living,97000,2,4,4
+1312,40,Female,Surabaya,Regular,Fashion,117000,1,1,5
+1313,38,Female,Bandung,Regular,Home & Living,39000,3,0,4
+1314,38,Female,Bali,Silver,Fashion,499000,1,4,4
+1315,42,Female,Bandung,Regular,Electronics,360000,1,32,3
+1316,32,Male,Jakarta,Regular,Beauty,192000,4,39,4
+1317,37,Male,Jakarta,Regular,Fashion,114000,4,46,4
+1318,,Female,Jakarta,Gold,Electronics,306000,3,8,2
+1319,34,Female,Surabaya,Regular,Electronics,21000,2,10,5
+1320,30,Female,Jakarta,Regular,Home & Living,234000,4,19,5
+1321,32,Female,Surabaya,Silver,Beauty,20000,4,1,4
+1322,36,Male,Surabaya,Silver,Food & Bev,237000,5,28,2
+1323,25,Female,Jakarta,Regular,Food & Bev,48000,4,123,4
+1324,48,Male,Bandung,Silver,Beauty,314000,1,13,4
+1325,23,Female,Jakarta,Regular,Electronics,432000,2,41,5
+1326,22,Male,Jakarta,Regular,Electronics,24000,1,20,4
+1327,41,Male,Bandung,Regular,Food & Bev,93000,1,4,5
+1328,38,Male,Surabaya,Regular,Electronics,594000,4,26,5
+1329,36,Male,Bandung,Silver,Fashion,99000,2,10,3
+1330,37,Female,Surabaya,Regular,Fashion,299000,2,1,5
+1331,31,Male,Jakarta,Regular,Fashion,133000,3,30,4
+1332,24,Male,Medan,Silver,Beauty,71000,1,58,3
+1333,32,Male,Bandung,Silver,Electronics,50000,2,,4
+1334,26,Male,Bandung,Regular,Food & Bev,34000,1,14,2
+1335,39,Male,Jakarta,Silver,Electronics,215000,1,66,2
+1336,30,Male,Surabaya,Regular,Fashion,73000,6,50,4
+1337,25,Female,Jakarta,Silver,Electronics,107000,1,37,5
+1338,29,Female,Jakarta,Silver,Beauty,102000,2,8,5
+1339,,Female,Bali,Gold,Food & Bev,129000,5,72,5
+1340,27,Female,Jakarta,Regular,Home & Living,301000,2,5,2
+1341,25,Male,Bali,Regular,Food & Bev,592000,1,29,5
+1342,33,Female,Surabaya,Regular,Food & Bev,79000,4,0,5
+1343,33,Female,Jakarta,Regular,Food & Bev,264000,5,30,5
+1344,27,Female,Surabaya,Regular,Home & Living,217000,3,9,5
+1345,28,male,Medan,Gold,Beauty,128000,6,17,5
+1346,,Male,Bandung,Regular,Fashion,469000,1,12,
+1347,20,Male,Medan,Regular,Electronics,34000,1,5,5
+1348,20,Male,Bandung,Silver,Food & Bev,17000,2,29,3
+1349,26,Female,Bandung,Regular,Food & Bev,289000,2,64,5
+1350,30,Female,Medan,Silver,Fashion,87000,4,95,3
+1351,34,Female,Jakarta,Regular,Beauty,282000,1,6,1
+1352,43,Female,Surabaya,Regular,Home & Living,335000,1,37,3
+1353,38,Female,Jakarta,Regular,Fashion,10000,4,32,5
+1354,30,Female,Bali,Regular,Beauty,322000,1,12,4
+1355,31,Female,Bali,Gold,Fashion,89000,3,0,4
+1356,23,Male,Jakarta,Regular,Fashion,107000,4,35,5
+1357,31,Male,Bandung,Regular,Fashion,148000,6,87,5
+1358,29,Male,Bali,Regular,Fashion,391000,2,,4
+1359,34,Female,Jakarta,Regular,Beauty,3000,2,17,3
+1360,25,Female,Surabaya,Silver,Fashion,97000,3,22,5
+1361,36,Male,Bali,Regular,Fashion,175000,4,6,
+1362,44,Female,Jakarta,Silver,Fashion,192000,3,41,4
+1363,31,Male,Bandung,Gold,Fashion,177000,3,41,4
+1364,35,Female,Jakarta,Regular,Fashion,22000,3,,
+1365,37,Male,Bali,Gold,Food & Bev,53000,2,63,5
+1366,28,Male,Bali,Regular,Fashion,67000,5,9,5
+1367,33,Female,Bali,Regular,Beauty,245000,2,120,4
+1368,32,Male,Surabaya,Regular,Beauty,49000,1,14,2
+1369,32,Male,Medan,Silver,Fashion,35000,3,5,5
+1370,25,Male,Medan,Gold,Beauty,474000,4,13,
+1371,32,Female,Jakarta,Regular,Fashion,1000,2,17,3
+1372,35,MALE,Medan,Silver,Fashion,919000,2,2,4
+1373,43,Male,Jakarta,Regular,Fashion,169000,2,25,5
+1374,39,Female,Surabaya,Regular,Electronics,264000,3,27,4
+1375,49,Female,Jakarta,Regular,Electronics,52000,1,40,5
+1376,25,Male,Jakarta,Gold,Beauty,2000,2,0,4
+1377,38,Male,Jakarta,Silver,Electronics,201000,1,23,
+1378,33,Male,Bandung,Regular,Food & Bev,269000,2,1,2
+1379,49,Male,Jakarta,Regular,Fashion,202000,2,36,2
+1380,25,Female,Bandung,Regular,Beauty,23000,2,1,3
+1381,25,Male,Jakarta,Regular,Fashion,210000,4,72,5
+1382,27,Female,Jakarta,Regular,Fashion,220000,2,36,5
+1383,18,Female,Surabaya,Silver,Fashion,161000,3,21,
+1384,27,Male,Bandung,Regular,Fashion,218000,2,17,5
+1385,25,Female,Jakarta,Regular,Electronics,281000,5,4,4
+1386,33,Male,Bandung,Regular,Beauty,143000,1,10,5
+1387,34,Female,Medan,Silver,Fashion,14000,4,60,3
+1388,47,FEMALE,Bandung,Silver,Food & Bev,100000,2,70,5
+1389,39,Female,Jakarta,Regular,Food & Bev,12000,6,0,4
+1390,27,Female,Jakarta,Silver,Beauty,79000,2,27,5
+1391,24,Male,Medan,Regular,Fashion,78000,2,38,
+1392,35,MALE,Jakarta,Regular,Electronics,10000,1,28,5
+1393,,Female,Medan,Regular,Home & Living,64000,1,2,3
+1394,46,male,Surabaya,Regular,Food & Bev,18000,2,7,4
+1395,41,Female,Bali,Regular,Electronics,248000,1,8,4
+1396,28,Female,Bandung,Gold,Fashion,443000,5,53,5
+1397,18,Male,Bali,Silver,Fashion,11000,3,18,
+1398,42,Male,Jakarta,Silver,Food & Bev,466000,2,20,
+1399,31,Female,Bandung,Regular,Food & Bev,111000,3,81,4
+1400,41,Male,Surabaya,Regular,Fashion,53000,2,30,4
+1401,19,Female,Surabaya,Silver,Food & Bev,12000,2,,5
+1402,27,Female,Bandung,Regular,Food & Bev,104000,1,18,4
+1403,32,Male,Medan,Regular,Electronics,8928000,7,4,
+1404,32,Male,Bali,Regular,Food & Bev,184000,2,79,5
+1405,28,Female,Bandung,Silver,Beauty,8000,4,18,4
+1406,36,Male,Surabaya,Regular,Electronics,11000,6,6,1
+1407,,Female,Surabaya,Regular,Beauty,77000,3,10,4
+1408,30,Male,Bandung,Silver,Fashion,52000,1,1,4
+1409,32,Female,Jakarta,Regular,Fashion,40000,2,18,5
+1410,36,Male,Jakarta,Regular,Fashion,49000,1,57,3
+1411,37,Female,Jakarta,Regular,Fashion,244000,1,81,3
+1412,23,Female,Jakarta,Regular,Fashion,397000,1,80,
+1413,19,Female,Jakarta,Silver,Fashion,78000,4,4,2
+1414,42,Male,Jakarta,Regular,Beauty,355000,4,14,4
+1415,34,Female,Jakarta,Regular,Fashion,58000,6,0,5
+1416,26,Female,Jakarta,Silver,Food & Bev,97000,1,57,5
+1417,44,Male,Bali,Silver,Fashion,38000,5,13,
+1418,32,Male,Surabaya,Silver,Home & Living,153000,7,29,5
+1419,,Male,Jakarta,Regular,Food & Bev,579000,2,37,3
+1420,32,Female,Bandung,Regular,Fashion,139000,2,16,
+1421,48,Female,Jakarta,Gold,Beauty,66000,1,10,3
+1422,46,Female,Bali,Silver,Electronics,157000,3,98,4
+1423,30,Male,Bandung,Regular,Beauty,20000,4,100,4
+1424,39,Male,Jakarta,Regular,Electronics,329000,3,10,2
+1425,37,Female,Surabaya,Regular,Food & Bev,105000,2,19,
+1426,42,Female,Medan,Gold,Beauty,89000,2,108,4
+1427,24,Female,Bali,Regular,Electronics,132000,2,0,5
+1428,37,Male,Surabaya,Regular,Fashion,147000,4,15,4
+1429,40,Female,Bandung,Regular,Beauty,11000,6,3,3
+1430,,Male,Jakarta,Silver,Electronics,172000,1,21,5
+1431,22,Male,Bali,Silver,Electronics,42000,5,0,3
+1432,18,Female,Jakarta,Regular,Fashion,188000,1,15,4
+1433,29,Female,Bali,Silver,Electronics,259000,4,7,2
+1434,37,Female,Bandung,Gold,Home & Living,244000,4,22,4
+1435,44,Male,Bandung,Regular,Fashion,121000,5,165,5
+1436,32,Male,Surabaya,Regular,Electronics,110000,1,48,4
+1437,45,Female,Jakarta,Regular,Food & Bev,23000,5,56,5
+1438,20,Female,Jakarta,Silver,Beauty,224000,2,30,5
+1439,18,Male,Jakarta,Regular,Electronics,47000,2,1,5
+1440,31,Male,Jakarta,Silver,Electronics,103000,6,6,5
+1441,35,Male,Bandung,Silver,Home & Living,50000,1,77,3
+1442,31,Female,Jakarta,Regular,Food & Bev,22000,3,,5
+1443,18,Male,Jakarta,Gold,Fashion,149000,5,3,3
+1444,31,Male,Bali,Regular,Fashion,8000,3,36,3
+1445,21,Male,Medan,Regular,Electronics,207000,1,10,5
+1446,37,Male,Bali,Silver,Fashion,57000,4,9,4
+1447,34,Male,Bali,Silver,Fashion,0,2,180,4
+1448,24,Female,Jakarta,Regular,Beauty,107000,1,58,4
+1449,27,Male,Jakarta,Silver,Fashion,7000,6,15,4
+1450,23,Female,Bandung,Gold,Food & Bev,48000,5,117,1
+1451,31,Male,Bandung,Regular,Fashion,184000,4,31,2
+1452,39,Female,Jakarta,Gold,Beauty,10000,1,40,1
+1453,24,Female,Medan,Regular,Food & Bev,274000,2,0,4
+1454,36,MALE,Jakarta,Regular,Fashion,1000,2,3,4
+1455,27,Female,Jakarta,Regular,Electronics,43000,2,30,2
+1456,25,Male,Surabaya,Silver,Fashion,203000,2,68,5
+1457,31,Male,Surabaya,Silver,Beauty,57000,1,29,3
+1458,23,Female,Surabaya,Regular,Beauty,16000,8,4,
+1459,27,Female,Jakarta,Regular,Electronics,67000,4,3,5
+1460,22,Female,Medan,Silver,Electronics,47000,2,55,5
+1461,47,Female,Jakarta,Regular,Electronics,277000,3,4,5
+1462,32,Female,Jakarta,Silver,Food & Bev,8741000,4,,5
+1463,26,Female,Medan,Silver,Electronics,233000,3,1,4
+1464,33,Male,Bali,Regular,Fashion,334000,5,2,5
+1465,31,Female,Medan,Gold,Electronics,85000,6,33,5
+1466,30,Female,Medan,Regular,Fashion,361000,9,35,4
+1467,36,Male,Bandung,Gold,Food & Bev,71000,4,12,3
+1468,38,Female,Surabaya,Silver,Fashion,499000,5,7,5
+1469,27,Male,Jakarta,Silver,Food & Bev,14000,3,50,5
+1470,27,Female,Surabaya,Regular,Fashion,174000,2,7,
+1471,29,Male,Jakarta,Silver,Fashion,102000,1,23,4
+1472,18,Female,Jakarta,Regular,Food & Bev,74000,3,103,5
+1473,19,Female,Bandung,Regular,Home & Living,150000,2,4,4
+1474,42,Male,Surabaya,Regular,Beauty,183000,3,84,5
+1475,45,Female,Jakarta,Regular,Fashion,1000,3,6,5
+1476,30,Female,Jakarta,Regular,Fashion,27000,4,25,4
+1477,36,Female,Bandung,Silver,Beauty,187000,1,,4
+1478,34,Male,Jakarta,Silver,Electronics,165000,4,100,5
+1479,56,Male,Medan,Regular,Fashion,507000,2,9,5
+1480,40,Male,Surabaya,Silver,Beauty,215000,3,15,4
+1481,30,Female,Surabaya,Regular,Beauty,452000,2,121,4
+1482,24,Female,Surabaya,Silver,Home & Living,182000,2,23,4
+1483,19,Female,Medan,Silver,Home & Living,53000,4,20,5
+1484,33,Female,Jakarta,Regular,Beauty,17000,4,8,2
+1485,25,Female,Bandung,Silver,Fashion,228000,7,36,3
+1486,,Female,Surabaya,Regular,Fashion,155000,1,0,4
+1487,26,Male,Jakarta,Regular,Food & Bev,7000,2,1,5
+1488,23,Female,Medan,Silver,Electronics,67000,1,27,3
+1489,45,Male,Bandung,Regular,Electronics,471000,5,12,3
+1490,39,Female,Bandung,Regular,Electronics,104000,2,91,2
+1491,31,Female,Medan,Regular,Electronics,85000,1,70,5
+1492,,Female,Medan,Silver,Food & Bev,92000,1,37,3
+1493,32,Male,Bandung,Regular,Fashion,35000,4,51,4
+1494,25,Male,Medan,Regular,Fashion,69000,6,33,4
+1495,44,Male,Bandung,Silver,Electronics,69000,1,4,5
+1496,36,Male,Bandung,Silver,Food & Bev,8000,2,43,4
+1497,23,Male,Bandung,Regular,Fashion,219000,4,7,3
+1498,30,Female,Bandung,Regular,Electronics,81000,5,11,4
+1499,24,Female,Jakarta,Regular,Food & Bev,259000,2,51,5
+1500,20,Male,Medan,Regular,Electronics,285000,3,23,4
